@@ -1,7 +1,7 @@
 <a href="http://www.bareconductive.com/"><img src="https://www.dropbox.com/s/5c4yatkrnqqbgrm/BareConductive.LOGO_553x221.jpg?dl=1" width="200px" alt="Bare Conductive" /></a>
 
-# Bare Conductive Touch Board Schematic Kickstarter Edition
-This is the electrical schematic for the Kickstarter Edition of the [Touch Board](http://www.bareconductive.com/shop/touch-board/).
+# Bare Conductive Touch Board Reference Designs - Kickstarter Edition
+These are the reference designs for the Kickstarter Edition of the [Touch Board](http://www.bareconductive.com/shop/touch-board/).
 
 ## Requirements
 The Touch Board requires the following to function within the Arduino IDE. 
