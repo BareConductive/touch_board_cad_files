@@ -3,19 +3,6 @@
 # Bare Conductive Touch Board Reference Designs - Kickstarter Edition
 These are the reference designs for the Kickstarter Edition of the [Touch Board](http://www.bareconductive.com/shop/touch-board/).
 
-## Requirements
-The Touch Board requires the following to function within the Arduino IDE. 
-
-* [Arduino](http://arduino.cc/en/Main/Software) 1.5.6 or later.
-
-* Arduino's instructions for installing libraries are available [here](http://arduino.cc/en/Guide/Libraries)
-
-	
-* [Bare Conductive MPR121 library](https://github.com/bareconductive/mpr121) (zip file download [here](https://github.com/bareconductive/mpr121/archive/public.zip))
-
-* [Bare Conductive Arduino Hardware Plugins](https://github.com/bareconductive/bare-conductive-arduino) (zip file download [here](https://github.com/bareconductive/bare-conductive-arduino/archive/public.zip)) - instructions on installing this hardware plugin folder are available [here](https://github.com/bareconductive/bare-conductive-arduino).
-
-
 ## Open Source License
 
 Reference designs are provided 'AS IS' and 'WITH ALL FAULTS. Bare Conductive Ltd. DISCLAIMS ALL OTHER WARRANTIES, EXPRESS OR IMPLIED,
