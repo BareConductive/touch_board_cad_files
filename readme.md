@@ -6,7 +6,7 @@ These are the reference designs for the Kickstarter Edition of the [Touch Board]
 ## Requirements
 The Touch Board requires the following to function within the Arduino IDE. 
 
-* [Arduino](http://arduino.cc/en/Main/Software) 1.0.5 or 1.5.6+ (1.5.6+ is strongly preferred).
+* [Arduino](http://arduino.cc/en/Main/Software) 1.5.6 or later.
 
 * Arduino's instructions for installing libraries are available [here](http://arduino.cc/en/Guide/Libraries)
 
