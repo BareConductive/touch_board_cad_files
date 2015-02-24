@@ -1,4 +1,4 @@
-<a href="http://www.bareconductive.com/"><img src="https://www.dropbox.com/s/5c4yatkrnqqbgrm/BareConductive.LOGO_553x221.jpg?dl=1" width="200px" alt="Bare Conductive" /></a>
+[![Bare Conductive](https://www.dropbox.com/s/ltnp128s2ueq040/LOGO_249x99.png?dl=1)](http://www.bareconductive.com/)
 
 # Bare Conductive Touch Board Reference Designs - Kickstarter Edition
 These are the reference designs for the Kickstarter Edition of the [Touch Board](http://www.bareconductive.com/shop/touch-board/).
