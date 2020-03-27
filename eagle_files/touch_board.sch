@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="6.5.0">
+<eagle version="6.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -18788,7 +18788,7 @@ BARE CONDUCTIVE is a registered trademark.  </text>
 <text x="154.94" y="292.1" size="1.778" layer="97">External Unfused
 3V - 5.5V</text>
 <text x="431.8" y="53.34" size="1.778" layer="97">address set to 5C</text>
-<text x="0" y="20.32" size="5.08" layer="97">TOUCH BOARD - Kickstarter Edition</text>
+<text x="0" y="20.32" size="5.08" layer="97">TOUCH BOARD</text>
 <text x="292.1" y="248.92" size="1.778" layer="97">not in use</text>
 <text x="452.12" y="40.64" size="1.778" layer="97">GND ELECTRODE</text>
 <text x="182.88" y="289.56" size="1.778" layer="97">JST S2B-PH-SM4-TB
